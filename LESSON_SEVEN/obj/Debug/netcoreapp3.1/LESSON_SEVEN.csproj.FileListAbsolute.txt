@@ -1,0 +1,76 @@
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.exe
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.deps.json
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.json
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.dev.json
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csprojAssemblyReference.cache
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CoreCompileInputs.cache
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfoInputs.cache
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfo.cs
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\JellyFish\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.genruntimeconfig.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.exe
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.deps.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.genruntimeconfig.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės\LESSON_SEVEN\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CopyComplete
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.exe
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.deps.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CopyComplete
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\7. Žaidimas Kartuvės (UPDATED)\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.genruntimeconfig.cache
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.exe
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.deps.json
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.json
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.csproj.CopyComplete
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.dll
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.pdb
+C:\Users\Justinas\Desktop\C# roundTwo\7. Žaidimas Kartuvės\LESSON_SEVEN\obj\Debug\netcoreapp3.1\LESSON_SEVEN.genruntimeconfig.cache
